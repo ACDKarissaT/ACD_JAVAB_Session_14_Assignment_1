@@ -1,0 +1,2 @@
+The difference between doPost() and doGet() is that doPost() is more secure because it doesn't display parameters in the url.
+The doGet() attaches the parameters to the url.
